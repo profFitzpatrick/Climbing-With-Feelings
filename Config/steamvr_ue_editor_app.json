@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.gdxrvrtemplate-23901901.unrealeditor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "D:/Work/GDXRVRTemplate5.1/GDXR_VR_Template_Marketplace_Build/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "GDXRVRTemplate-23901901 [UE Editor]"
+				}
+			}
+		}
+	]
+}
